@@ -4,4 +4,17 @@
     <title>My personal profile</title>
     <meta charset="utf-8">
     <style>h1{colour:green;}</style>
-    <link rel="stylesheet"type="text/css"hred="
+    <link rel="stylesheet"type="text/css"hred="css/styles'>
+  </head>
+   <body>
+<div id="divmaincontainer">
+<header id="siteheader">
+   <h1 id="sitetitle">My Personal Website/h1>
+   <span id="sitemotto">Inspired to make the world a better place for all</span>
+  </header>
+  <nav id="site nav">
+    <ul id="ulnav">
+<li><a href="g">Home</a></li>
+<li><a href="g">Education</a></li>
+  <li><a href="g">Experience</a></li>
+     <li><a href="Hobbies">Hobbies</a></li>
